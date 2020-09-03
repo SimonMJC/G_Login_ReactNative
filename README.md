@@ -30,7 +30,7 @@ Google Firebase를 이용한 React Native Login
 
  Reference: 
  <https://bangc.tistory.com/12?category=710884>
- <https://firebase.google.com/docs/ios/setup>
+ ###### <https://firebase.google.com/docs/ios/setup>
 
 
 ---------------------------------------------------
