@@ -28,7 +28,7 @@ Google Firebase를 이용한 React Native Login
 ###### 5. OS: macOS Catalina 10.15.6
 ###### 6. Launch Device: iPhone11(iOS: 13.4) Simulation for Xcode
 
- Reference: 
+###### Reference: 
  <https://bangc.tistory.com/12?category=710884>
  ###### <https://firebase.google.com/docs/ios/setup>
 
