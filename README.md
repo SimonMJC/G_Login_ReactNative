@@ -1,8 +1,10 @@
 Google Login Module
 ===================
 
+
 Google Firebase를 이용한 React Native Login
 -----------------------------------------
+
 
 구글 아이디를 통해 앱 내 로그인 구현
 
@@ -15,6 +17,8 @@ Google Firebase를 이용한 React Native Login
 
 
 -------------------------------------------------
+
+
 ###### Environment
 
 ###### 1. Scripter: Visual Studio Code
@@ -29,6 +33,7 @@ Google Firebase를 이용한 React Native Login
 
 
 ---------------------------------------------------
+
 ###### write by simon
 
 ###### 2020년 09월 3일
