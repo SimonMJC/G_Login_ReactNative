@@ -15,17 +15,17 @@ Google Firebase를 이용한 React Native Login
 
 ###### Environment
 
-1. Scripter: Visual Studio Code
-2. Language: JavaScript
-3. Framework/Library: ReactNative 0.63.2, ReactNative-cli 2.0.1
-4. Desktop: Macbook pro 2019 15ch cto
-5. OS: macOS Catalina 10.15.6
-6. Launch Device: iPhone11(iOS: 13.4) Simulation for Xcode
+###### 1. Scripter: Visual Studio Code
+###### 2. Language: JavaScript
+###### 3. Framework/Library: ReactNative 0.63.2, ReactNative-cli 2.0.1
+###### 4. Desktop: Macbook pro 2019 15ch cto
+###### 5. OS: macOS Catalina 10.15.6
+###### 6. Launch Device: iPhone11(iOS: 13.4) Simulation for Xcode
 
-Reference: 
-<https://bangc.tistory.com/12?category=710884>
+###### Reference: 
+###### <https://bangc.tistory.com/12?category=710884>
 
-write by simon
+###### write by simon
 
-2020년 09월 3일
+###### 2020년 09월 3일
 
