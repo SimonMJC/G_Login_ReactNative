@@ -13,6 +13,7 @@ Google Firebase를 이용한 React Native Login
 
 ##### 작업 시 어려움은 크게 없었으나 Firebase에서 프로젝트 생성 시 WebClient ID는 저장하는 것이 편하다. 
 
+###### Environment
 
 1. Scripter: Visual Studio Code
 2. Language: JavaScript
